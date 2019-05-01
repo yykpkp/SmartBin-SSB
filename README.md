@@ -18,7 +18,6 @@
 <td align="center"><a align="center" href=""><img src="/Image/rc01.jpg" width="200px" style="max-width:100%;"></a></td>
 <td align="center"><a align="center" href=""><img src="/Image/rc02.jpg" width="200px" style="max-width:100%;"></a></td>
 <td align="center"><a align="center" href=""><img src="/Image/rc03.png" width="200px" style="max-width:100%;"></a></td>
-<td align="center"><a align="center" href=""><img src="/Image/rc04.jpg" width="200px" style="max-width:100%;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -35,7 +34,6 @@
 <td align="center"><a align="center" href=""><img src="/Image/rc06.jpg" width="100px" style="max-width:100%;"></a></td>
 <td align="center"><a align="center" href=""><img src="/Image/rc07.jpg" width="200px" style="max-width:100%;"></a></td>
 <td align="center"><a align="center" href=""><img src="/Image/rc08.jpg" width="200px" style="max-width:100%;"></a></td>
-<td align="center"><a align="center" href=""><img src="/Image/rc09.jpg" width="200px" style="max-width:100%;"></a></td>
 </tr>
 </tbody>
 </table>
