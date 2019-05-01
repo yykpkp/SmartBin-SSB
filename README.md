@@ -14,3 +14,10 @@
 <th align="center">Ultrasonic SR04 เซนเซอร์ UltrasonicModule HC-SR04 Distance Measuring Transducer Sensor</th>
 <th align="center">ขั้วถ่าน 9V รางถ่าน 9V"</th>
 </tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a align="center" href="/Image/rc01.jpg"><img src="/Image/rc01.jpg" width="200px" style="max-width:100%;"></a></td>
+</tr>
+</tbody>
+</table>
