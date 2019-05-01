@@ -18,7 +18,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a align="center" href="/Image/rc01.jpg"><img src="/Image/rc01.jpg" width="200px" style="max-width:100%;"></a></td>
+<td align="center"><a align="center" href="Image/rc01.jpg"><img src="Image/rc01.jpg" width="200px" style="max-width:100%;"></a></td>
 <td align="center"><a align="center" href=""><img src="" width="200px" style="max-width:100%;"></a></td>
 <td align="center"><a align="center" href=""><img src="" width="200px" style="max-width:100%;"></a></td>
 </tr>
