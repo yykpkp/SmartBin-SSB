@@ -9,10 +9,8 @@
 <thead>
 <tr>
 <th align="center">Servo Motor Arduino SG90 motor Servo ขนาดเล็ก</th>
-<th align="center">Arduino Uno R3</th>
-<th align="center">Micro USB Arduino cable Micro</th>
+<th align="center">Arduino Uno R3+USB Arduino Uno</th>
 <th align="center">Ultrasonic SR04 เซนเซอร์ UltrasonicModule HC-SR04 Distance Measuring Transducer Sensor</th>
-<th align="center">ขั้วถ่าน 9V รางถ่าน 9V"</th>
 </tr>
 </thead>
 <tbody>
@@ -21,7 +19,23 @@
 <td align="center"><a align="center" href=""><img src="/Image/rc02.jpg" width="200px" style="max-width:100%;"></a></td>
 <td align="center"><a align="center" href=""><img src="/Image/rc03.png" width="200px" style="max-width:100%;"></a></td>
 <td align="center"><a align="center" href=""><img src="/Image/rc04.jpg" width="200px" style="max-width:100%;"></a></td>
-<td align="center"><a align="center" href=""><img src="/Image/rc05.jpg" width="200px" style="max-width:100%;"></a></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th align="center">ESP8266 NodeMCU</th>
+<th align="center">Jumper Wire(Male to Female)</th>
+<th align="center">ขั้วถ่าน 9V รางถ่าน 9V"</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a align="center" href=""><img src="/Image/rc06.jpg" width="100px" style="max-width:100%;"></a></td>
+<td align="center"><a align="center" href=""><img src="/Image/rc07.jpg" width="200px" style="max-width:100%;"></a></td>
+<td align="center"><a align="center" href=""><img src="/Image/rc08.jpg" width="200px" style="max-width:100%;"></a></td>
+<td align="center"><a align="center" href=""><img src="/Image/rc09.jpg" width="200px" style="max-width:100%;"></a></td>
 </tr>
 </tbody>
 </table>
