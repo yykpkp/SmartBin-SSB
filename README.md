@@ -60,28 +60,28 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href=""><img src="" width="300"  height="297" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href=""><img src="" width=""  height="" style="max-width:100%;"></a></td>
 <td>Terawat</td>
 <td>Kanjanapanwong</td>
 <td><a href="https://github.com/Chokcolate">@Chokcolate</a></td>
 <td align="center">61070093</td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href=""><img src="" width="256"  height="318" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href=""><img src="" width=""  height="" style="max-width:100%;"></a></td>
 <td>Nitichai </td>
 <td>Kodchatean</td>
 <td><a href="https://github.com/th4it4y">@th4it4y</a></td>
 <td align="center">610700</td>
 </tr>
 <tr> 
-<td align="center"><a target="_blank" rel="noopener noreferrer" href=""><img src="" alt="" width="256"  height="456" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href=""><img src="" alt="" width=""  height="" style="max-width:100%;"></a></td>
 <td>Pakaporn</td>
 <td>Rattanasethyuth</td>
 <td><a href="https://github.com/yykpkp">@yykpkp</a></td>
 <td align="center">61070154</td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href=""><img src="" width="300"  height="300" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href=""><img src="" width=""  height="" style="max-width:100%;"></a></td>
 <td>Supakorn</td>
 <td>Auttamee</td>
 <td><a href="https://github.com/Nnut44">@Nnut44</a></td>
