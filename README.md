@@ -18,9 +18,9 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a align="center" href=""><img src="" width="200px" style="max-width:100%;"></a></td>
-<td align="center"><a align="center" href=""><img src="" width="200px" style="max-width:100%;"></a></td>
-<td align="center"><a align="center" href=""><img src="" width="200px" style="max-width:100%;"></a></td>
+<td align="center"><a align="center"><img src="img/Components_1.jpg" width="200px" style="max-width:100%;"></a></td>
+<td align="center"><a align="center"><img src="img/Components_2.jpg" width="200px" style="max-width:100%;"></a></td>
+<td align="center"><a align="center"><img src="img/components_3.jpg" width="200px" style="max-width:100%;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -34,9 +34,9 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a align="center" href=""><img src="" width="100px" style="max-width:100%;"></a></td>
-<td align="center"><a align="center" href=""><img src="" width="200px" style="max-width:100%;"></a></td>
-<td align="center"><a align="center" href=""><img src="" width="200px" style="max-width:100%;"></a></td>
+<td align="center"><a align="center"><img src="img/Components_4.jpg" width="100px" style="max-width:100%;"></a></td>
+<td align="center"><a align="center"><img src="img/Components_5.jpg" width="200px" style="max-width:100%;"></a></td>
+<td align="center"><a align="center"><img src="img/Components_6.jpg" width="200px" style="max-width:100%;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -61,8 +61,8 @@
 <table>
 <thead>
 <tr>
-<th align="center" href=""><img src="" alt="" style="max-width:100%;"></a></th>
-<th align="center" href=""><img src="" alt="" style="max-width:100%;"></a></th>
+<th align="center"><img src="img/professor_1.jpg" alt="" style="max-width:100%;"></a></th>
+<th align="center"><img src="img/professor_2.jpg" alt="" style="max-width:100%;"></a></th>
 </tr>
 </thead>
 <tbody>
