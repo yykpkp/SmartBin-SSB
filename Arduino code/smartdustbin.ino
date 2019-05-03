@@ -3,8 +3,8 @@
 Servo myservo;            //Define an object named MyServo
 const int eko=8;        
 const int trig=7;        
-int mesafe;
-int sure;
+int distance;
+int duration;
 
 void setup() {
   myservo.attach(9);           //We introduced the ninth pin arduino to the servo motor
@@ -23,19 +23,19 @@ void loop() {
   digitalWrite(trig, HIGH);       
   delayMicroseconds(20);
   digitalWrite(trig, LOW);
-  sure = pulseIn(eko, HIGH);      
-  mesafe= (sure/29.1)/2;  
+  duration = pulseIn(eko, HIGH);      
+  distance= (duration/29.1)/2;  
   
 
-  if(mesafe<=5){
-    myservo.write(90);
+  if(distance<=5){
+    myservo.write(70);
     delay(5000);   
   }
   
    
-  if(mesafe>200)
-mesafe=200;
-Serial.print("mesafe");
-Serial.println(mesafe);
+  if(distance>200)
+distance=200;
+Serial.print("distance");
+Serial.println(distance);
 delay(500);
 }

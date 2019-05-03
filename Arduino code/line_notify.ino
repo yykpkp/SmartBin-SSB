@@ -4,8 +4,8 @@ void Line_Notify(String message) ;
 #include <WiFiClientSecureAxTLS.h> // กรณีขึ้น Error ให้เอาบรรทัดนี้ออก
 
 // Config connect WiFi
-#define WIFI_SSID "true_home2G_4FN"
-#define WIFI_PASSWORD "5dAp962p"
+#define WIFI_SSID "true_home2G_5ku"
+#define WIFI_PASSWORD "h8jf37H3"
 
 // Line config
 #define LINE_TOKEN "hpRxjrbIAPbEUCeq7jy5fhEm71xHYDLLCoSSSZDUlBM"
